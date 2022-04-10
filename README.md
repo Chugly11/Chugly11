@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chugly11
-- 👀 I’m interested in: JS, Networking, Security
+- 👀 I’m interested in: JS, Python, Networking, Security
 - 🌱 I’m currently learning: JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ...
